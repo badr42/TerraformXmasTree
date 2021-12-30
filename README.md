@@ -1,4 +1,7 @@
 # TerraformXmasTree
- Generates a Christmas Trees on screen
+##Generates a Christmas Trees on screen
 
-terraform apply would generate the tree
+$ terraform apply 
+
+
+to generate the tree
